@@ -13,6 +13,7 @@ alias edba='vi ~/.bashrc'
 # navigation aliases
 alias cl='clear'
 alias ls='ls "--width=100" "--color" "--group-directories-first"'
+alias l='ls "-g"'
 alias ex='exit'
 
 # Git aliases
