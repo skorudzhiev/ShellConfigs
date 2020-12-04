@@ -19,4 +19,4 @@ alias ex='exit'
 # Git aliases
 alias gst='"git" "status"'
 alias glog='"git" "log" "-7" "--oneline"'
-
+alias grhh='"git" "reset" "--hard"'
