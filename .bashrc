@@ -20,3 +20,6 @@ alias ex='exit'
 alias gst='"git" "status"'
 alias glog='"git" "log" "-7" "--oneline"'
 alias grhh='"git" "reset" "--hard"'
+
+# Android debug bridge (adb) aliases
+alias atext='adb shell input text $text'
